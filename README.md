@@ -15,3 +15,5 @@ Springboot项目 Tomcat启动
 - [x] 涩图
 
 #### 参与贡献
+<a href="https://github.com/Nekoer/Telegram-Pixiv-Bot/graphs/contributors"><img src="https://opencollective.com/wechat/contributors.svg?width=890" /></a>
+
