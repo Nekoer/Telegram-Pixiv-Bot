@@ -14,6 +14,8 @@ Springboot项目 Tomcat启动
 #### 功能开发
 - [x] 涩图
 
-#### 参与贡献
-<a href="https://github.com/Nekoer/Telegram-Pixiv-Bot/graphs/contributors"><img src="https://opencollective.com/wechat/contributors.svg?width=890" /></a>
+## License
 
+MIT
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNekoer%2FTelegram-Pixiv-Bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNekoer%2FTelegram-Pixiv-Bot?ref=badge_large)
