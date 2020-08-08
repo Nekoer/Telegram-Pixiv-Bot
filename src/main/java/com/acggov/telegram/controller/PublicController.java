@@ -25,7 +25,6 @@ public class PublicController {
 
     @RequestMapping(method = RequestMethod.POST, value = "msg", produces = MediaType.APPLICATION_JSON_VALUE)
     public BotApiMethod getMsg(@RequestBody Update update) {
-        System.out.println(update);
         return publicService.onWebhookUpdateReceived(update);
     }
 
